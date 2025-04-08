@@ -1,16 +1,14 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet1",
-  "autoTileSets":[
-    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[93,451,452,450,491,51,409,611,492,409,412,612,489,491,492,207,],},
-  ],
+  "%Name":"water",
+  "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet1",
-  "out_columns":25,
+  "name":"water",
+  "out_columns":4,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -20,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_Tilemap_Flat",
-    "path":"sprites/spr_Tilemap_Flat/spr_Tilemap_Flat.yy",
+    "name":"spr_Water",
+    "path":"sprites/spr_Water/spr_Water.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -36,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":640,
+  "tile_count":16,
 }
