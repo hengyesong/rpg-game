@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"Tree",
-    "path":"sprites/Tree/Tree.yy",
+    "name":"spr_Tree",
+    "path":"sprites/spr_Tree/spr_Tree.yy",
   },
   "spriteMaskId":null,
   "visible":true,

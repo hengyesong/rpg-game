@@ -39,7 +39,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_standback_withoutweapon",
     "path":"sprites/spr_standback_withoutweapon/spr_standback_withoutweapon.yy",
