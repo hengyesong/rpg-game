@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_house",
+  "%Name":"Obj_house_purple",
   "eventList":[],
   "managed":true,
-  "name":"obj_house",
+  "name":"Obj_house_purple",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_house",
-    "path":"sprites/spr_house/spr_house.yy",
+    "name":"Spr_House_Purple",
+    "path":"sprites/Spr_House_Purple/Spr_House_Purple.yy",
   },
   "spriteMaskId":null,
   "visible":true,
