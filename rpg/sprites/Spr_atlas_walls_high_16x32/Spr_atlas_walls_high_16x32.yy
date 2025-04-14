@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"sword_in_stone",
+  "%Name":"Spr_atlas_walls_high_16x32",
   "bboxMode":0,
-  "bbox_bottom":56,
-  "bbox_left":1,
-  "bbox_right":31,
-  "bbox_top":2,
+  "bbox_bottom":127,
+  "bbox_left":0,
+  "bbox_right":372,
+  "bbox_top":6,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a86bb72a-6b07-446e-8b33-be52d165797c","name":"a86bb72a-6b07-446e-8b33-be52d165797c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"171e2254-c5bc-4ed5-b2b7-4705e9a0c5bd","name":"171e2254-c5bc-4ed5-b2b7-4705e9a0c5bd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":59,
+  "height":128,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"31784c67-e835-4d0c-ade1-72a65b80e601","blendMode":0,"displayName":"default","isLocked":false,"name":"31784c67-e835-4d0c-ade1-72a65b80e601","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"837707d0-c6fb-4d18-aac8-f16564ff24e4","blendMode":0,"displayName":"default","isLocked":false,"name":"837707d0-c6fb-4d18-aac8-f16564ff24e4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sword_in_stone",
+  "name":"Spr_atlas_walls_high_16x32",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"sword_in_stone",
+    "%Name":"Spr_atlas_walls_high_16x32",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sword_in_stone",
+    "name":"Spr_atlas_walls_high_16x32",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a86bb72a-6b07-446e-8b33-be52d165797c","path":"sprites/sword_in_stone/sword_in_stone.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0e3494bc-1d95-4abb-84df-eb6e6c907f8c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"171e2254-c5bc-4ed5-b2b7-4705e9a0c5bd","path":"sprites/Spr_atlas_walls_high_16x32/Spr_atlas_walls_high_16x32.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7f4184c2-ecc2-4dff-aee5-7de3226dd6d5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":34,
+  "width":384,
 }
