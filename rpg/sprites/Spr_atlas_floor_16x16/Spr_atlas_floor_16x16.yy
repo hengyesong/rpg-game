@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"Spr_atlas_floor_16x16",
   "bboxMode":0,
-  "bbox_bottom":111,
+  "bbox_bottom":223,
   "bbox_left":0,
-  "bbox_right":111,
+  "bbox_right":223,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":112,
+  "height":224,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"91ef844c-8e95-4da2-aeae-10cb13d5bb30","blendMode":0,"displayName":"default","isLocked":false,"name":"91ef844c-8e95-4da2-aeae-10cb13d5bb30","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":112,
+  "width":224,
 }

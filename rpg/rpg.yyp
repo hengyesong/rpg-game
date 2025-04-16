@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":1,
+  "defaultScriptType":2,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -62,6 +62,7 @@
     {"id":{"name":"Obj_Tower_blue","path":"objects/Obj_Tower_blue/Obj_Tower_blue.yy",},},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Oak_Tree_Small","path":"sprites/Oak_Tree_Small/Oak_Tree_Small.yy",},},
     {"id":{"name":"Spr_atlas_floor_16x16","path":"sprites/Spr_atlas_floor_16x16/Spr_atlas_floor_16x16.yy",},},
     {"id":{"name":"Spr_atlas_walls_high_16x32","path":"sprites/Spr_atlas_walls_high_16x32/Spr_atlas_walls_high_16x32.yy",},},
@@ -114,6 +115,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
