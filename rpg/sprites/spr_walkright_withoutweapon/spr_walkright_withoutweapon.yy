@@ -33,7 +33,7 @@
   "origin":9,
   "parent":{
     "name":"withoutweapon",
-    "path":"folders/Tile Sets/Sprites/withoutweapon.yy",
+    "path":"folders/Tile Sets/Sprites/maincharacter/withoutweapon.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
