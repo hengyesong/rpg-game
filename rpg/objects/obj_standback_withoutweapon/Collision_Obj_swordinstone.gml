@@ -1,5 +1,5 @@
-/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 3AA2B816
-/// @DnDArgument : "msg" "A sword! Now you can press R entering combat mode"
-show_debug_message(string(A sword! Now you can press R entering combat mode));
+/// @DnDHash : 3FFFA188
+/// @DnDApplyTo : {Obj_swordinstone}
+with(Obj_swordinstone) instance_destroy();

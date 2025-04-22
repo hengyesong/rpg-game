@@ -13,7 +13,8 @@ speed = 1;
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 017FD0D1
+/// @DnDArgument : "imageind" "8"
 /// @DnDArgument : "spriteind" "Spr_Slime_Green_Jumping"
 /// @DnDSaveInfo : "spriteind" "Spr_Slime_Green_Jumping"
 sprite_index = Spr_Slime_Green_Jumping;
-image_index = 0;
+image_index = 8;

@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_Tower_Blue",
-    "path":"sprites/Spr_Tower_Blue/Spr_Tower_Blue.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
