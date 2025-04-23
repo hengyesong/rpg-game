@@ -29,7 +29,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"Spr_Torch_Purple",
     "path":"sprites/Spr_Torch_Purple/Spr_Torch_Purple.yy",
