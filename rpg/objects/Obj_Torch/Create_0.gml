@@ -1,3 +1,14 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3F64BAC6
+/// @DnDInput : 2
+/// @DnDArgument : "expr" "5"
+/// @DnDArgument : "expr_1" "5"
+/// @DnDArgument : "var" "hp"
+/// @DnDArgument : "var_1" "hpmax"
+hp = 5;
+hpmax = 5;
+
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Random
 /// @DnDVersion : 1.1
 /// @DnDHash : 344E5AA6

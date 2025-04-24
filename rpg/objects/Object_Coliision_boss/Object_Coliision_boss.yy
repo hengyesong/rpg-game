@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object21",
+  "%Name":"Object_Coliision_boss",
   "eventList":[],
   "managed":true,
-  "name":"Object21",
+  "name":"Object_Coliision_boss",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_carrot",
+    "path":"sprites/spr_carrot/spr_carrot.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
