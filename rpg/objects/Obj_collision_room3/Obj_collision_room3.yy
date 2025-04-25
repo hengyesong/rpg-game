@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_collision_Boss",
+  "%Name":"Obj_collision_room3",
   "eventList":[],
   "managed":true,
-  "name":"Obj_collision_Boss",
+  "name":"Obj_collision_room3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
