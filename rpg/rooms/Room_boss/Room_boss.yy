@@ -75,6 +75,7 @@
     {"name":"inst_23EB1C81","path":"rooms/Room_boss/Room_boss.yy",},
     {"name":"inst_664425E7","path":"rooms/Room_boss/Room_boss.yy",},
     {"name":"inst_65A9493","path":"rooms/Room_boss/Room_boss.yy",},
+    {"name":"inst_61A1868F","path":"rooms/Room_boss/Room_boss.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -83,6 +84,7 @@
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_4B09C80B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_4B09C80B","path":"rooms/Room2/Room2.yy",},"inheritItemSettings":true,"isDnd":false,"name":"inst_4B09C80B","objectId":{"name":"maincharacter_stand","path":"objects/maincharacter_stand/maincharacter_stand.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":64.0,},
         {"$GMRInstance":"v1","%Name":"inst_65A9493","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_65A9493","objectId":{"name":"Obj_Torch","path":"objects/Obj_Torch/Obj_Torch.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":675.0,"y":416.0,},
+        {"$GMRInstance":"v1","%Name":"inst_61A1868F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_61A1868F","objectId":{"name":"Obj_music_battle","path":"objects/Obj_music_battle/Obj_music_battle.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":448.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_4B032151","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_4B032151","path":"rooms/Room2/Room2.yy",},"inheritItemSettings":true,"isDnd":false,"name":"inst_4B032151","objectId":{"name":"Obj_blocking","path":"objects/Obj_blocking/Obj_blocking.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":0.0,},

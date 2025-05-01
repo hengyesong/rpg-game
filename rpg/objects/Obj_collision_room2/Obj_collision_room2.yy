@@ -32,5 +32,5 @@
     "path":"sprites/spr_carrot/spr_carrot.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
